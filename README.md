@@ -1,2 +1,1 @@
-# my-hotel
-taso-hotel
+
